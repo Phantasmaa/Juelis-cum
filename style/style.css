@@ -112,6 +112,11 @@ body {
 
 }
 
+@media screen and (max-width: 600px){
+  .portada p{
+    font-size: 24px;
+  }
+} 
 
 .portada img{
     display: block;
